@@ -2,7 +2,7 @@ const http = require("http");
 const xmlBuilder = require("xmlbuilder");
 const jsonCode = require("./IRCCode.json");
 const reqObject = {
-    host : "192.168.1.110",
+    host : "192.168.0.110",
     port : "80",
     method : "POST",
     path : "/IRCC",
