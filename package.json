@@ -1,0 +1,30 @@
+{
+  "name": "sony-bravia-kdl-46ex650-controller",
+  "version": "1.0.0",
+  "description": "Sony Bravia KDL-46EX650-Controller",
+  "main": "main.js",
+  "dependencies": {
+    "xmlbuilder": "^15.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArunHarish/Sony-Bravia-KDL-46EX650-Controller.git"
+  },
+  "keywords": [
+    "TV",
+    "remote",
+    "controller",
+    "Sony",
+    "Bravia"
+  ],
+  "author": "Arun Harish Balasubramonian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArunHarish/Sony-Bravia-KDL-46EX650-Controller/issues"
+  },
+  "homepage": "https://github.com/ArunHarish/Sony-Bravia-KDL-46EX650-Controller#readme"
+}
